@@ -1,6 +1,6 @@
-language: "en"
+#language: "en"
 
-pipeline: "spacy_sklearn"
+#pipeline: "spacy_sklearn"
 
 # data contains the same json, as described in the training data section
 data: {
